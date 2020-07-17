@@ -7,8 +7,8 @@
 
 # Reviewer
 - [ ] I am able to understand the code easily
-- [ ] The code do what it claims to do
-- [ ] Code conforms to architecture 
+- [ ] All features mentioned in the acceptance are implemented
+- [ ] Code conforms to architecture (Package names, file names, dependencies)
 - [ ] Error messages meaningful
 - [ ] Sonarqube results have been verified
 - [ ] Code coverage is verified
